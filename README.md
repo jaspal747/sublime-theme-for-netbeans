@@ -12,4 +12,10 @@ Inspired by :
 
 Screenshots:
 
-![Alt text](/screenshots/monaki.png?raw=true "Monaki Theme")
+Sample PHP:
+
+![Alt text](/screenshots/monaki/pnp.png?raw=true "Monaki Theme")
+
+Sample JS:
+
+![Alt text](/screenshots/monaki/js.png?raw=true "Monaki Theme")

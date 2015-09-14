@@ -14,7 +14,7 @@ Screenshots:
 
 Sample PHP:
 
-![Alt text](/screenshots/monaki/pnp.png?raw=true "Monaki Theme")
+![Alt text](/screenshots/monaki/php.png?raw=true "Monaki Theme")
 
 Sample JS:
 
